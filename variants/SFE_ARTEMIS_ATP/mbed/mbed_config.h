@@ -54,7 +54,7 @@
 #define MBED_CONF_ATMEL_RF_LOW_SPI_SPEED                                      3750000                                                                                          // set by library:atmel-rf
 #define MBED_CONF_ATMEL_RF_PROVIDE_DEFAULT                                    0                                                                                                // set by library:atmel-rf
 #define MBED_CONF_ATMEL_RF_USE_SPI_SPACING_API                                0                                                                                                // set by library:atmel-rf
-#define MBED_CONF_BLE_PRESENT                                                 1                                                                                                // set by library:ble
+#define MBED_CONF_BLE_PRESENT                                                 0                                                                                                // set by library:ble
 #define MBED_CONF_CELLULAR_CONTROL_PLANE_OPT                                  0                                                                                                // set by library:cellular
 #define MBED_CONF_CELLULAR_DEBUG_AT                                           0                                                                                                // set by library:cellular
 #define MBED_CONF_CELLULAR_MAX_CP_DATA_RECV_LEN                               1358                                                                                             // set by library:cellular
